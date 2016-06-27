@@ -44,8 +44,8 @@
     "verbose": true
   },
   "devDependencies": {
-    "babel-jest": "~10.0.1",
-    "jest-cli": "~0.10.0",
+    "babel-jest": "^13.x.x",
+    "jest-cli": "^12.x.x",
     "react": "~0.14.8",
     "react-native": "~0.22.2"
   },
